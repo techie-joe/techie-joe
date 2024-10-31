@@ -1,8 +1,8 @@
-- 👋 Hi, I’m [@techie-joe](/github.com/techie-joe)
+- 👋 Hi, I’m [@techie-joe](//github.com/techie-joe)
 - 👀 I’m interested in web development & designs ...
 - 🌱 I’m currently learning AI Aesthetics ...
 - 💞️ I’m looking to collaborate on any web development projects ...
-- ✨ Visit [tidloo.com](/tidloo.com)
+- ✨ Visit [tidloo.com](//tidloo.com)
 
 <!---
 techie-joe/techie-joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

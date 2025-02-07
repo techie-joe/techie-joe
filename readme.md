@@ -6,7 +6,7 @@
 
 💬 [Lets discuss something](//github.com/techie-joe/techie-joe/discussions)  
 
-✨ Visit [my website](//techie-joe.github.io), [tidloo.com](//tidloo.com) and feel free to read my [Wiki Page](//github.com/techie-joe/techie-joe/wiki)  
+✨ Visit [my website](//techie-joe.github.io), [tidloo.com](//tidloo.com) and feel free to read [my wiki page](//github.com/techie-joe/techie-joe/wiki)  
 
 <!---
 techie-joe/techie-joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

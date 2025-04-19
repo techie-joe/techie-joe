@@ -1,15 +1,16 @@
-👋 Hi, I’m [@techie-joe](//github.com/techie-joe).
+Hi, I’m [@techie-joe](//github.com/techie-joe). 👋
 
-💞️ I really love web development & design..  
-I spend most of my time writing codes and my spare time learning about AI Development and its aesthetics.
+💞️ I really love web development & design.  
+I spend most of my time writing codes, while learning about AI Development and its aesthetics.
+I look forward to collaborate on any web development projects. 🌱 
 
-🌱 I’m looking forward to collaborate on any web development projects.  
+💬 [Lets discuss here](//github.com/techie-joe/techie-joe/discussions)  
+
+✨ Visit [my website](//techie-joe.github.io).
+And [tidloo.com](//tidloo.com).
+And feel free to read [my wiki page](//github.com/techie-joe/techie-joe/wiki) too.  
 
 ☕️ [Sponsor me a coffee](//github.com/sponsors/techie-joe)  
-
-💬 [Lets discuss something](//github.com/techie-joe/techie-joe/discussions)  
-
-✨ Visit [my website](//techie-joe.github.io), [tidloo.com](//tidloo.com) and feel free to read [my wiki page](//github.com/techie-joe/techie-joe/wiki).  
 
 <!---
 techie-joe/techie-joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

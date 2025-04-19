@@ -1,8 +1,8 @@
 👋 Hi, I’m [@techie-joe](//github.com/techie-joe).
 
-🌱 I’m keen to web development & design.  I spend my spare time learning about new AI Development & Aesthetics.
+💞️ I really love web development & design.. and I spend my spare time learning about new AI Development and its aesthetics.
 
-💞️ I’m looking forward to collaborate on any web development projects.  
+🌱 I’m looking forward to collaborate on any web development projects.  
 
 ☕️ [Sponsor me a coffee](//github.com/sponsors/techie-joe)  
 

@@ -1,6 +1,6 @@
 👋 Hi, I’m [@techie-joe](//github.com/techie-joe).
 
-💞️ I really love web development & design.. and I spend my spare time learning about new AI Development and its aesthetics.
+💞️ I really love web development & design.. I spend most of my time writing codes and my spare time learning about AI Development and its aesthetics.
 
 🌱 I’m looking forward to collaborate on any web development projects.  
 

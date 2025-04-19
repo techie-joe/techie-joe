@@ -6,9 +6,7 @@ I look forward to collaborate on any web development projects. 🌱
 
 💬 [Lets discuss here](//github.com/techie-joe/techie-joe/discussions)  
 
-✨ Visit [my website](//techie-joe.github.io).
-And [tidloo.com](//tidloo.com).
-And feel free to read [my wiki page](//github.com/techie-joe/techie-joe/wiki) too.  
+✨ Visit [my website](//techie-joe.github.io) | [tidloo.com](//tidloo.com) | [my wiki page](//github.com/techie-joe/techie-joe/wiki)  
 
 ☕️ [Sponsor me a coffee](//github.com/sponsors/techie-joe)  
 

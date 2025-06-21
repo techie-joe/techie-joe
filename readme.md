@@ -7,7 +7,7 @@ I spend most of my time writing codes and prompts.
 I'm looking forward to collaborate on any software development projects. 🌱  
 Contact me to work together.  💬 [Lets discuss here](//github.com/techie-joe/techie-joe/discussions)  
 
-✨ Visit [my website](//techie-joe.github.io) | [my wiki page](//github.com/techie-joe/techie-joe/wiki)  
+✨ [Visit my website](//techie-joe.github.io) | [Read my wiki page](//github.com/techie-joe/techie-joe/wiki)  
 
 ☕️ [Sponsor me coffees](//github.com/sponsors/techie-joe)  
 

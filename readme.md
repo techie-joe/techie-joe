@@ -1,7 +1,9 @@
-Hi, I’m [@techie-joe](//github.com/techie-joe). 👋
+## Hi there, I’m [@techie-joe](//github.com/techie-joe). 👋
 
-💞️ I really love application development & design (Desktop, Web, Mobile and AI).  
-I spend most of my time building - plan, design, writing codes, prompts, and all.  
+I'm a developer from Malaysia.
+💞️ I love building stuff for everyone to use.
+I am specialized in web development and AI prompting.  
+I spend most of my time writing codes and prompts.  
 I'm looking forward to collaborate on any software development projects. 🌱  
 Contact me to work together.  💬 [Lets discuss here](//github.com/techie-joe/techie-joe/discussions)  
 

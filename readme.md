@@ -1,8 +1,9 @@
 Hi, I’m [@techie-joe](//github.com/techie-joe). 👋
 
-💞️ I really love web development & design.  
-I spend most of my time writing codes, while learning about AI Development and its aesthetics.  
-I look forward to collaborate on any web development projects. 🌱 
+💞️ I really love application development & design (Desktop, Web, Mobile and AI).  
+I spend most of my time building - plan, design, writing codes, prompts, and all.  
+I'm looking forward to collaborate on any software development projects. 🌱  
+Contact me to work together.  
 
 💬 [Lets discuss here](//github.com/techie-joe/techie-joe/discussions)  
 

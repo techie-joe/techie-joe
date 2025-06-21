@@ -7,7 +7,7 @@ Contact me to work together.  💬 [Lets discuss here](//github.com/techie-joe/t
 
 ✨ Visit [my website](//techie-joe.github.io) | [my wiki page](//github.com/techie-joe/techie-joe/wiki)  
 
-☕️ [Sponsor me a coffee](//github.com/sponsors/techie-joe)  
+☕️ [Sponsor me coffees](//github.com/sponsors/techie-joe)  
 
 <!---
 techie-joe/techie-joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

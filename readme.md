@@ -1,4 +1,4 @@
-## Hi there, I’m Joe [@techie-joe](//github.com/techie-joe). 👋
+## Hi there, I’m Joe. [@techie-joe](//github.com/techie-joe) 👋
 
 I'm a developer from Malaysia.
 💞️ I love building stuff for everyone to use.

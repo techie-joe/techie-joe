@@ -8,7 +8,7 @@
 
 ✨ [Visit my website](//techie-joe.github.io) | [Read my wiki page](//github.com/techie-joe/techie-joe/wiki)  
 
-☕️ [Sponsor me coffees](//github.com/sponsors/techie-joe)  
+☕️ [Sponsor me coffee](//github.com/sponsors/techie-joe)  
 
 <!---
 techie-joe/techie-joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

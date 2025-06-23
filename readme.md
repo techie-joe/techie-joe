@@ -1,6 +1,6 @@
 ## Hi there, I’m Joe. [@techie-joe](//github.com/techie-joe) 👋
 
-I'm a developer from Malaysia, specialized in web development and AI prompting.  
+I'm a developer from Malaysia, specialized in web development and AI prompting.
 💞️ I love building stuff for everyone to use.  
 I spend most of my time writing code and crafting prompts.
 I'm open to collaborating on software development projects. 🌱  

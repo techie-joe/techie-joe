@@ -1,7 +1,7 @@
 ## Hi there, I’m Joe. [@techie-joe](//github.com/techie-joe) 👋
 
 🧑‍💻 I'm a web developer from Malaysia.  
-💞️ I love building apps that people actually use.  
+💞️ I love building apps that people use.  
 🖥️ Most of my time goes into writing clean code and crafting effective prompts.  
 🌱 I'm open to collaborating on software development projects.  
 💬 Contact me to work together. [Lets discuss](//github.com/techie-joe/techie-joe/discussions)  

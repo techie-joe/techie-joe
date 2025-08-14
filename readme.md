@@ -6,7 +6,7 @@
 🌱 I'm open to collaborate on any software development projects.  
 💬 Contact me to work together. [Lets discuss](//github.com/techie-joe/techie-joe/discussions)  
 
-✨ [Visit my website](//techie-joe.github.io) | [Read my wiki page](//github.com/techie-joe/techie-joe/wiki)  
+✨ [Visit my website](//techie-joe.github.io) | [Read my wiki](//github.com/techie-joe/techie-joe/wiki)  
 
 ☕️ [Sponsor me coffee](//github.com/sponsors/techie-joe)  
 

@@ -3,7 +3,7 @@
 🧑‍💻 I'm a web developer from Malaysia.  
 💞️ I love building apps.  
 🖥️ I write code, scripts and prompts.  
-🌱 I'm open to work on any projects.  
+🌱 Willing to work on any projects.  
 💬 Contact me to [discuss](//github.com/techie-joe/techie-joe/discussions).  
 
 ✨ [Visit my website](//techie-joe.github.io) or [my wiki](//github.com/techie-joe/techie-joe/wiki)  

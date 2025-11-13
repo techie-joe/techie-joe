@@ -6,7 +6,7 @@
 🌱 Willing to work on any projects.  
 💬 Contact me to [discuss](//github.com/techie-joe/techie-joe/discussions).  
 
-✨ [Visit my website](//techie-joe.github.io) or [my wiki](//github.com/techie-joe/techie-joe/wiki)  
+✨ [Visit my website](//techie-joe.github.io) and [my wiki](//github.com/techie-joe/techie-joe/wiki)  
 
 ☕️ [Sponsor my work](//github.com/sponsors/techie-joe)  
 

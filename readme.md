@@ -6,7 +6,7 @@
 🌱 Willing to work on any projects.  
 💬 Contact me to [discuss](discuss) or [sponsoring](sponsor).  
 
-✨ Have a look at [my website](website) , [my wiki](wiki) , [my gist][gist].  
+✨ Have a look at [my website](website) , [my wiki](wiki) , [my gist][gist] .  
 
 [website]: https://techie-joe.github.io "Techie Joe's Website"
 [profile]: https://github.com/techie-joe "Techie Joe's GitHub Profile"

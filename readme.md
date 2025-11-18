@@ -1,7 +1,7 @@
 ## Hi there, I’m Joe. 👋
 
 🧑‍💻 I'm a full-stack web developer from Malaysia.  
-💞️ I love building software applications.  
+💞️ I love building websites and software applications.  
 🖥️ I'm good with codes, scripts and prompts.  
 🌱 Willing to work with any development projects.  
 💬 Contact me to [discuss](/techie-joe/techie-joe/discussions) or [sponsoring](/sponsors/techie-joe).  

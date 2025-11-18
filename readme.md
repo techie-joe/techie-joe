@@ -1,6 +1,6 @@
 ## Hi there, I’m Joe. 👋
 
-🧑‍💻 I'm a web developer from Malaysia.  
+🧑‍💻 I'm a full-stack web developer from Malaysia.  
 💞️ I love building apps for users.  
 🖥️ I'm good with codes, scripts and prompts.  
 🌱 Willing to work on any projects.  

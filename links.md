@@ -1,28 +1,37 @@
-#### My links
+# My Github Links
 
-- [Website][website]
-- [Profile][profile]
-- [Wiki][wiki]
-- [Discussions][discussions]
-- [Gists][gists]
-- [Sponsor][sponsor]
-- [Library][library]
-- [Mallet][mallet]
-- [Sites][sites]
-- [Dzikr][dzikr]
-- [Tidloo][tidloo]
+&bull; [Website][website]
+&bull; [Profile][profile]
+&bull; [Wiki][wiki]
+&bull; [Gists][gist]
+&bull; [Discussions][discuss]
+&bull; [Sponsorship][sponsor]
 
+[website]: https://techie-joe.github.io "Techie Joe's Website"
+[profile]: https://github.com/techie-joe "Techie Joe's GitHub Profile"
+[wiki]:    https://github.com/techie-joe/techie-joe/wiki "Techie Joe's Wiki"
+[gist]:    https://gist.github.com/techie-joe "Techie Joe's Gists"
+[discuss]: https://github.com/techie-joe/techie-joe/discussions "💬 Techie Joe's Discussions"
+[sponsor]: https://github.com/sponsors/techie-joe "☕️ Buy me coffee .."
 
-[website]: //techie-joe.github.io "Techie Joe's Website"
-[profile]: //github.com/techie-joe "Techie Joe's GitHub Profile"
-[wiki]:    //github.com/techie-joe/techie-joe/wiki "Techie Joe's Wiki"
-[discussions]: //github.com/techie-joe/techie-joe/discussions "💬 Techie Joe's Discussions"
-[gists]:   //gist.github.com/techie-joe "Techie Joe's Gists"
-[sponsor]: //github.com/sponsors/techie-joe "☕️ Buy me a coffee .."
+## Projects
 
-[library]: //techie-joe.github.io/library/ "Techie Joe's Library"
-[mallet]:  //techie-joe.github.io/mallet/ "Techie Joe's Mallet"
-[sites]:   //techie-joe.github.io/sites/ "Techie Joe's Sites"
-[dzikr]:   //github.com/techie-joe/dzikr/ "Techie Joe's Dzikr Wordpress Plugin"
+&bull; [Library][library]
+&bull; [Ace][ace]
+&bull; [Mallet][mallet]
+&bull; [Sites][sites]
+&bull; [Dove][dove]
+&bull; [Dzikr][dzikr]
+
+[library]: https://techie-joe.github.io/library/ "Techie Joe's Library"
+[ace]:     https://techie-joe.github.io/ace/ "Web Application Template"
+[mallet]:  https://techie-joe.github.io/mallet/ "Techie Joe's Mallet"
+[sites]:   https://techie-joe.github.io/sites/ "Techie Joe's Sites"
+[dove]:    https://techie-joe.github.io/sites/ "Dove - theme development project."
+[dzikr]:   https://github.com/techie-joe/dzikr/ "Techie Joe's Dzikr Wordpress Plugin"
+
+## Legacies
+
+&bull; [Tidloo][tidloo]
 
 [tidloo]: //tidloo.com "Visit Tidloo.com"

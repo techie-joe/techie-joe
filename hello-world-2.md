@@ -14,7 +14,7 @@ That first ***"Hello World"*** isn't just a code, it's the successful initial de
 For me, it always comes out of a `console.log`, a terminal, or rendered on the top corner of a blank browser window. Honestly, the form doesn't matter. Seeing that first output is always a clear signal that I've started another journey. And the excitement doesn't stop with the first successful run. I repeatedly use it for any quick test before starting with the real work: crafting user interfaces, hammering out responsive logic, and writing codes that connects and bring data to life. 
 
 
-For the global community of developers who understand it, ***"Hello World"*** is a sort of a credential. It's a nod from a machine that execute exactly what you told it to do. It's the moment a journey begins. Tools evolves, languages updated, and landscape shifts, but the spirit of that first message remains. A confident greeting to the boundless digital realm.
+For the global community of developers who understand it, ***"Hello World"*** is a sort of a credential. It's a nod from a machine that execute exactly what you told it to do. It's the moment a journey begins. Tools evolved, languages updated, and landscape shifts, but the spirit of that first message remains. A confident greeting to the boundless digital realm.
 
 
 > That moment humbles me. For me: ***"Hello World is the first commit, not the final release."***

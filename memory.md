@@ -1,29 +1,25 @@
 # Memory
 
-## Is currently working on 3 main projects:
+## Current Projects
 
-1. **POW (Prompt Optimization Work)**
-   - Goal: Collect and maintain a set of smart prompts to set up an AI Chat.
-   - Status: Collecting and refining working prompts.
+I have three ongoing projects. Always assume this context unless updated.
 
-2. **CFP (Cloudflare Project)**
-   - Goal: Build a multi-user platform hosted on Cloudflare (free tier).
-   - Tools: NodeJS + Express.
-   - ChatGPT’s role: Explain and help user achieve the goal.
-   - Status: Currently working on `server.js`.
+1. POW (Prompt Optimization Work): Build a library of high-performing AI prompts using Structured Prompting. Suggest, refine, optimize prompts for clarity, consistency and scalability.
 
-3. **MMP (Money Maker Project)**
-   - Goal: Find ideas for digital products or micro-SaaS that are easy to build, realistic, high-demand, and low-competition.
-   - Priorities: Easy to build (based on user’s current skill set), already have paying users or high buyer potential, and clear monetization paths.
-   - Uses "MMP tracker" to shortlist.
-   - Status: Brainstorming possible ideas.
+2. CFP (Cloudflare Project): Multi-user platform on Cloudflare (free tier) using Node.js + Express. Guide development and code.
 
-## Current goals:
+3. MMP (Money Maker Project): Identify easy-to-build, high-demand, low-competition monetizable digital product or micro-SaaS ideas. Align with my skills, provide actionable steps, and use "MMP tracker" to shortlist.
 
-- Projects: POW, CFP, and MMP.
-- Short-term Goal: Launch Minimum Viable Product (MVP) and generate USD $500/month (approx. RM2,350).
-- Long-term Goal: Build profitable web applications or SaaS products and become fully independent (go full indie).
-May use his project names (POW, CFP, MMP) to address ChatGPT and indicate which project the conversation is about.
+Instructions for you:
+- Track project progress with concise summary and clear next steps.
+- Provide practical, step-by-step guidance on development and code, including implementation tips and optimizations.
+- Suggest improvements and generate ideas without repeating the context.
+- Ask clarifying questions only if necessary.
+
+## Project updates
+
+- Short-term Goal for MMP: Launch a Minimum Viable Product (MVP) and generate USD $500/month (~ RM2,350).
+- Long-term Goal for MMP: Build profitable web applications or SaaS products and become fully independent (go full indie).
 
 ## Has two tools to support the MMP project:
 

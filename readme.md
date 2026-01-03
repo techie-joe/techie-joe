@@ -2,7 +2,7 @@
 
 🧑‍💻 I'm a full-stack app developer from Malaysia.  
 💞️ I love building websites and software applications.  
-🖥️ Excellent in software development, automation, and AI prompting.  
+🖥️ Skilled in software development, automation, and AI prompting.  
 💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any projects or [sponsoring](https://github.com/sponsors/techie-joe) my work.  
 
 ✨ Have a visit to [my website](https://techie-joe.github.io) , [my wiki](https://github.com/techie-joe/techie-joe/wiki) , and [my gist](https://gist.github.com/techie-joe) .  

@@ -2,11 +2,10 @@
 
 🧑‍💻 I'm a full-stack app developer from Malaysia.  
 💞️ I love building websites and software applications.  
-🖥️ I'm good with codes, scripts and prompts.  
-🌱 Keen to work with any development projects.  
-💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) or [sponsoring](https://github.com/sponsors/techie-joe).  
+🖥️ Excellent in software development, problem solving, automation, and AI prompting.  
+💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any projects or [sponsoring](https://github.com/sponsors/techie-joe) my work.  
 
-✨ Have a look at [my website](https://techie-joe.github.io) , [my wiki](https://github.com/techie-joe/techie-joe/wiki) , and [my gist](https://gist.github.com/techie-joe) .  
+✨ Have a visit to [my website](https://techie-joe.github.io) , [my wiki](https://github.com/techie-joe/techie-joe/wiki) , and [my gist](https://gist.github.com/techie-joe) .  
 
 <!-- techie-joe/techie-joe is a ✨ special ✨ repository, its readme.md (this file) appears on your GitHub profile. --->
 <!-- please note: that link URL must be in full href including host and protocol. referenced URL may cause broken link. -->

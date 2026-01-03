@@ -1,4 +1,4 @@
-## Hi there, I’m Joe. 👋
+## Hello there, meet Joe. 👋
 
 🧑‍💻 I'm a full-stack web developer from Malaysia.  
 💞️ I love building websites and software applications.  

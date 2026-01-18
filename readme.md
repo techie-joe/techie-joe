@@ -2,7 +2,7 @@
 
 🧑‍💻 I'm a full-stack app developer.  
 
-💞️ I love building scalable high-performance software with clean architecture.
+💞️ Passionate about building scalable, high-performance software with clean architecture.
 
 🖥️ 20+ years of expertise in software engineering and automation, currently leveraging advanced AI prompting to drive efficiency.  
 

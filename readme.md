@@ -6,7 +6,7 @@
 
 🖥️ 20+ years of expertise in software engineering, automation and design, currently leveraging advance AI prompting to drive efficiency.  
 
-💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any projects or [sponsoring](https://github.com/sponsors/techie-joe) my work.  
+💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any project or [sponsoring](https://github.com/sponsors/techie-joe) my work.  
 
 ✨ Visit [my website](https://techie-joe.github.io) for more.  
 

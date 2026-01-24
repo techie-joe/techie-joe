@@ -1,4 +1,4 @@
-## Hello there, I'm Joe 👋
+### Hello there, I'm Joe 👋
 
 🧑‍💻 I'm a full-stack app developer.  
 

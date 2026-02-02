@@ -9,8 +9,7 @@
 💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any project or [sponsoring](https://github.com/sponsors/techie-joe) my work.  
 
 ✨ Visit [my website](https://techie-joe.github.io) for more.  
-
-&nbsp;
+&nbsp;  
 
 <!-- techie-joe/techie-joe is a ✨ special ✨ repository, its readme.md (this file) appears on your GitHub profile. --->
 

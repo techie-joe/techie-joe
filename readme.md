@@ -1,10 +1,8 @@
 ### 👋 Hello there, I'm Joe
 
-🧑‍💻 I'm a full-stack app developer.  
+🧑‍💻 I'm a **Full-Stack Developer** with 20+ years of experience turning coffee into scalable, high-performance software. ☕️⚡️ 
 
-💞️ Passionate about building scalable, high-performance software with clean architecture.
-
-🖥️ 20+ years of expertise in software engineering, automation and design, currently leveraging advance AI prompting to drive efficiency.  
+🖥️ I’ve been building the web since the dial-up era in 1990s. These days, I lead development at **Tidloo Digital**, obsessing over clean architecture and leveraging AI to squeeze every bit of efficiency out of the development process. 💞️  
 
 💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any project or [sponsoring](https://github.com/sponsors/techie-joe) my work.  
 

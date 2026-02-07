@@ -9,6 +9,22 @@
 ✨ Visit [my website](https://techie-joe.github.io) for more.  
 &nbsp;  
 
+---
+
+**Techie Joe's**
+&bull; [Website][website]
+&bull; [Profile][profile]
+&bull; [Wiki][wiki]
+&bull; [Discussions][discuss]
+&bull; [Sponsorship][sponsor]
+
+[website]: https://techie-joe.github.io "Techie Joe's Website"
+[profile]: https://github.com/techie-joe "Techie Joe's GitHub Profile"
+[wiki]:    https://github.com/techie-joe/techie-joe/wiki "Techie Joe's Wiki"
+[discuss]: https://github.com/techie-joe/techie-joe/discussions "💬 Techie Joe's Discussions"
+[sponsor]: https://github.com/sponsors/techie-joe "☕️ Buy me coffee .."
+[gist]:    https://gist.github.com/techie-joe "Techie Joe's Gists"
+
 <!-- techie-joe/techie-joe is a ✨ special ✨ repository, its readme.md (this file) appears on your GitHub profile. --->
 
 <!-- please note: that link URL must be in full href including host and protocol. referenced URL may cause broken link. -->

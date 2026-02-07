@@ -1,10 +1,10 @@
 ### 👋 Hello there, I'm Joe
 
-🧑‍💻 I'm a **Senior Full-Stack Developer** with 25+ years of experience turning coffee ☕️ into scalable, high-performance software.⚡️  
+🧑‍💻 I'm a **Senior Full-Stack Developer** with 25+ years of experience turning coffee ☕️ into scalable, high-performance software ⚡️.
 
-🖥️ I’ve been building the web since the dial-up era in 1990s. These days, I lead development at **Tidloo Digital**, obsessing 💞️ over clean architecture and leveraging AI to squeeze every bit of efficiency out of the development process.  
+🖥️ I’ve been building the web since the dial-up era in 1990s. These days, I lead development at **Tidloo Digital**, building apps and tools to make development faster and smarter.  
 
-💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any project or [sponsoring](https://github.com/sponsors/techie-joe) my work.  
+💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any project or 💞️ [sponsoring](https://github.com/sponsors/techie-joe) my work.  
 
 ✨ Visit [my website](https://techie-joe.github.io) for more.  
 &nbsp;  

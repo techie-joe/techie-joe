@@ -1,4 +1,4 @@
-# My Github Links
+# My Links
 
 &bull; [Website][website]
 &bull; [Profile][profile]

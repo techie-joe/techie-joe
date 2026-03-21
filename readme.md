@@ -1,8 +1,8 @@
 ### 👋 Hello there, I'm Joe
 
-🧑‍💻 I'm a **Senior Full-Stack Developer** with 25+ years of experience turning coffee ☕️ into scalable, high-performance software ⚡️.
+🧑‍💻 I'm a **Senior Full-Stack Developer** with 25+ years of experience in scalable, high-performance software ⚡️.
 
-🖥️ I’ve been building the web since the dial-up era in 1990s. Nowadays, I lead development at **Tidloo Digital**, leveraging AI to build cleaner, faster, and smarter tools for everyone.
+🖥️ I lead development at **Tidloo Digital**, leveraging AI to build cleaner, faster, and smarter tools for everyone.
 
 💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any project or 💞️ [sponsoring](https://github.com/sponsors/techie-joe) my work.  
 

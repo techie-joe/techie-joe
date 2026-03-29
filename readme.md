@@ -1,6 +1,6 @@
 ### 👋 Hello there, I'm Joe
 
-🧑‍💻 I'm a **Senior Full-Stack Developer** with 25+ years of experience in web development ⚡️.
+🧑‍💻 I'm a **Senior Full-Stack Developer** with 20+ years of experience in web development ⚡️.
 
 🖥️ I lead **Tidloo Digital**, a company that leverages AI to build cleaner, faster, and smarter web for everyone.
 

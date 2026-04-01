@@ -2,7 +2,7 @@
 
 🖥️ I lead **Tidloo Digital**, leveraging AI to build cleaner, faster, and smarter web for everyone.
 
-💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any project or 💞️ [sponsoring](https://github.com/sponsors/techie-joe) my work.  
+💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any project or 💞️ [sponsor](https://github.com/sponsors/techie-joe) my work.  
 
 ✨ Visit [my website](https://techie-joe.github.io) for more.  
 &nbsp;  

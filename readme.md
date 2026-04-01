@@ -1,6 +1,6 @@
 🧑‍💻 I'm a **Senior Full-Stack Developer** with 20+ years of experience in web development ⚡️.
 
-🖥️ I lead **Tidloo Digital**, a company that leverages AI to build cleaner, faster, and smarter web for everyone.
+🖥️ I lead **Tidloo Digital**, leveraging AI to build cleaner, faster, and smarter web for everyone.
 
 💬 Contact me to [discuss](https://github.com/techie-joe/techie-joe/discussions) any project or 💞️ [sponsoring](https://github.com/sponsors/techie-joe) my work.  
 
